@@ -21,7 +21,7 @@ body {
     width: 350px;
     height: 610px;
     /*border: 1px solid red;*/
-    margin-top: 100px;
+    margin: 100px;
     background-color: hsl(216, 50%, 16%);
     border-radius: 15px;
     box-shadow: 10px 10px 20px 10px rgba(0,0,0,0.3);
